@@ -1,1 +1,1 @@
-# IBM-Attrition-Prediction---People-Analytics
+# IBM Attrition Prediction via Kaggle Dataset(People Analytics)
