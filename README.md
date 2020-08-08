@@ -61,18 +61,24 @@
 *Forth PC*
   - MaritalStatus_Single: 0.6023669 
                        
-                       
 **Supervised learning**
 
 - Null Model: AIC=1039
 - Logistic Regression (Backward Selection) :  AIC=768.07
 - Logistic Regression with interactions: AIC=1806
 
-*R² as a performance evaluation metric*
-
-<img src="Graphs/R-Square%20for%20all%20models.jpeg" Width=500 Height=70>
-
 *ROC curve*
 
 <img src="Graphs/ROC.jpeg" Width=400 Height=330>
+
+*LASSO*
   
+<img src="Graphs/Lasso.jpeg" Width=480 Height=450>
+
+*Neural Network*
+
+<img src="Graphs/Neural%20network.jpeg" Width=480 Height=450>
+
+*R² as a performance evaluation metric*
+
+<img src="Graphs/R-Square%20for%20all%20models.jpeg" Width=500 Height=70>
